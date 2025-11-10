@@ -59,7 +59,7 @@ social-network-links:
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: morriswang0328
+  linkedin: morris-wang-6636137a
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -259,7 +259,8 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+#timezone: "America/Toronto"
+timezone: "Asia/Taipei"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
