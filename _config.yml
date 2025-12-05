@@ -21,7 +21,6 @@ author: Morris Wang
 
 navbar-links:
   關於我: "aboutme"
-  GitBook: "gitbook"
   學習資源:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
