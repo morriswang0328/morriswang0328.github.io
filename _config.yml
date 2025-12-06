@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: MW's Profile
+title: MW's WorkSpace
 
 # Your name to show in the footer
 author: Morris Wang
@@ -21,6 +21,7 @@ author: Morris Wang
 
 navbar-links:
   關於我: "aboutme"
+  我的文件: "/docs/"
   學習資源:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -101,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MW's Profile"
+url-pretty: "MorrisWang"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -302,4 +303,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
